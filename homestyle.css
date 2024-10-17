@@ -4,11 +4,28 @@ body{
 h1 {
     color: green;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 h4 {
     color: green;
+    font-family: 'Courier New', Courier, monospace;
 }
 a {
-    text-align: center;
     color: whitesmoke;
+    size: 20px;
+    text-decoration: none;
+}
+h2 {
+    color: ;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    color: lightcoral;
+    text-align: center;
+}
+.games {
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
 }
