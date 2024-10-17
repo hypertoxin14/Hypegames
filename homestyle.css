@@ -5,27 +5,42 @@ h1 {
     color: green;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 27px;
 }
 h4 {
     color: green;
     font-family: 'Courier New', Courier, monospace;
 }
 a {
-    color: whitesmoke;
-    size: 20px;
-    text-decoration: none;
+   font-size: 17px;
+   text-decoration: none;
 }
 h2 {
-    color: ;
+    color: white;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    text-shadow: -2px 2px gray;
+    font-size: 22px;
 }
 p {
-    color: lightcoral;
+    color: white;
     text-align: center;
+    font-size: 17px;
 }
 .games {
     color: whitesmoke;
     text-align: center;
     text-decoration: none;
+    font-size: 15px;
+}
+.fancy {
+    color: lightcoral;
+    text-align: center;
+    font-size: 15px;
+}
+ol {
+    text-align: center;
+}
+li {
+    text-align: center;
 }
